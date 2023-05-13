@@ -1,0 +1,837 @@
+{
+  "register": [],
+  "users": [
+    {
+      "email": "madhankumarreddy012@gmail.com",
+      "password": "$2a$10$.MY9IBPUJN9l6WXOQ4eabOevIYxy1cW.poJs7SyiL8WAI6gKavvTi",
+      "username": "madhankumarreddy",
+      "type": "admin",
+      "lastname": "Koduru",
+      "id": 1
+    },
+    {
+      "email": "madhankumarreddy2001@gmail.com",
+      "password": "$2a$10$OG2Mdy.SLbYRFhzeg3/CtO/BmGz4tixYTJIQKRsdxxcYzEenHOy8a",
+      "username": " MadhankumarR123",
+      "type": "user",
+      "id": 2
+    },
+    {
+      "email": "madhankumarreddy321@gmail.com",
+      "password": "$2a$10$bVS.63ften5hEkWPZyfiwuKYJIdcxIJOZoPOI26TUTRkR2jyLIqdS",
+      "username": "Mike123",
+      "type": "user",
+      "id": 3
+    },
+    {
+      "email": "seetharamireddy710@gmail.com",
+      "password": "$2a$10$isMvn/l10UILr3cgxWNj9.sqz120PlJG/0gDGkczdY1KEojlx1/KS",
+      "username": "seetharam",
+      "type": "admin",
+      "lastname": "koduru",
+      "id": 4
+    },
+    {
+      "email": "karthikbadveli@gmail.com",
+      "password": "$2a$10$mdkczdMDipLhFtNKU65/eO5/fT6DZmt2WhdFtLAzB52vJ0TCtEp6G",
+      "username": "karthikreddy",
+      "type": "user",
+      "id": 5
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Madhan",
+      "specialization": "Cardiologist",
+      "fee": "100000",
+      "image": "doctor1.png",
+      "image1": "hospital1.jpg",
+      "description": "I have done  the most successful operations"
+    },
+    {
+      "id": 2,
+      "name": "Mohan",
+      "specialization": "Audiologists",
+      "fee": "1230000",
+      "image": "doctor2.jpg",
+      "image1": "hospital1.jpg",
+      "description": "These are the hearing specialists who are trained to identify, diagnose, measure, and treat hearing disorders or balance problems."
+    },
+    {
+      "id": 3,
+      "name": "Hemanth",
+      "specialization": "Dentists",
+      "fee": "130000",
+      "image": "doctor3.jpg",
+      "image1": "hospital1.jpg",
+      "description": "I have done  the most successful operations"
+    },
+    {
+      "id": 4,
+      "name": "Janardhan",
+      "specialization": "Gastroenterologists",
+      "fee": "1400000",
+      "image": "doctor4.jpg",
+      "image1": "hospital1.jpg",
+      "description": "These are the medical doctors who specialize in the diagnosis and treatment of diseases of the digestive system, such as hepatitis, ulcerative colitis, Crohn's disease, and colon or rectal cancer."
+    },
+    {
+      "id": 5,
+      "name": "Bhaskar",
+      "specialization": "General Practitioners",
+      "fee": "1500000",
+      "image": "doctor5.jpg",
+      "image1": "hospital1.jpg",
+      "description": "These are the medical doctors who diagnose and treat most types of health conditions or diseases and do not specialize in any particular area of medicine."
+    },
+    {
+      "id": 6,
+      "name": "Sridhar",
+      "specialization": "Neonatologist",
+      "fee": "1600000",
+      "image": "doctor6.jpg",
+      "image1": "hospital1.jpg",
+      "description": "These are the pediatric medical doctors who specializes in the diagnosis and treatment of disorders in newborns."
+    },
+    {
+      "id": 7,
+      "name": "Malik",
+      "specialization": "Nephrologists",
+      "fee": "700000",
+      "image": "doctor7.jpg",
+      "image1": "hospital1.jpg",
+      "description": "These are the medical doctors who specialize in the diagnosis and treatment of diseases of the kidney and urinary system, such as inflammation of the kidneys, chronic kidney disease, or cancer."
+    },
+    {
+      "id": 8,
+      "name": "Manju",
+      "specialization": "Neurological Surgeons",
+      "fee": "800000",
+      "image": "doctor8.jpg",
+      "image1": "hospital1.jpg",
+      "description": "These are the medical doctors who specialize in surgery of the brain, spinal column, and nervous system."
+    },
+    {
+      "id": 9,
+      "name": "Bittu",
+      "specialization": "Neurologists",
+      "fee": "900000",
+      "image": "doctor9.jpg",
+      "image1": "hospital1.jpg",
+      "description": "These are the medical doctors who specialize in the diagnosis and treatment of brain, spinal cord, and nervous system diseases, such as multiple sclerosis, Alzheimer's disease, headaches, stroke, or injury."
+    },
+    {
+      "id": 10,
+      "name": "Prasad",
+      "specialization": "Obstetricians",
+      "fee": "1100000",
+      "image": "doctor10.jpg",
+      "image1": "hospital1.jpg",
+      "description": "These are the medical doctors who specialize in the care of pregnant women, from the time of conception through delivery and the period following delivery (postpartum)."
+    },
+    {
+      "id": 11,
+      "name": "Pawanraj",
+      "specialization": "Pediatricians",
+      "fee": "3100000",
+      "image": "doctor11.jpg",
+      "image1": "hospital1.jpg",
+      "description": "These are the medical doctors who specialize in the care of children."
+    },
+    {
+      "id": 12,
+      "name": "Sri Hari",
+      "specialization": "Urologists",
+      "fee": "2100000",
+      "image": "doctor12.jpg",
+      "image1": "hospital1.jpg",
+      "description": "These are the medical doctors who specialize in the diagnosis and treatment of diseases of the urinary system in men and women and disorders of the male reproductive system."
+    },
+    {
+      "id": 13,
+      "name": "Karthik",
+      "specialization": "Dentists",
+      "fee": "3100000",
+      "image": "doctor13.jpg",
+      "image1": "hospital1.jpg",
+      "description": "These are the health professionals who specialize in mouth and dental health problems."
+    },
+    {
+      "id": 14,
+      "name": "Arjun",
+      "specialization": "Endodontist",
+      "fee": "4100000",
+      "image": "doctor14.jpg",
+      "image1": "hospital1.jpg",
+      "description": "These are the dental health professionals who specializes in treating damaged root canals in teeth."
+    }
+  ],
+  "details": [
+    {
+      "id": 1,
+      "name": "Madhan Kumar Reddy",
+      "email": "madhankumarreddy012@gmail.com",
+      "address": "Nellore",
+      "mobile": "998685449",
+      "patientcheckin": 10,
+      "medicalhistory": 50,
+      "treatmentplan": 40,
+      "research": 80,
+      "patientreviews": 90,
+      "noofoperations": 70,
+      "feedbacks": 90,
+      "success": 90,
+      "examination": 85,
+      "experience": 89
+    },
+    {
+      "id": 2,
+      "name": "Mohan Sai Krishna",
+      "email": "mohan123@gmail.com",
+      "address": "Anathapur",
+      "mobile": "9988773322",
+      "patientcheckin": 20,
+      "medicalhistory": 35,
+      "treatmentplan": 40,
+      "research": 55,
+      "patientreviews": 75,
+      "noofoperations": 60,
+      "feedbacks": 80,
+      "success": 85,
+      "examination": 70,
+      "experience": 95
+    },
+    {
+      "id": 3,
+      "name": "Hemanth Kumar",
+      "email": "hemanthkumar432@gmail.com",
+      "address": "Nellore",
+      "mobile": "9876543210",
+      "patientcheckin": 25,
+      "medicalhistory": 50,
+      "treatmentplan": 65,
+      "research": 40,
+      "patientreviews": 80,
+      "noofoperations": 30,
+      "feedbacks": 90,
+      "success": 75,
+      "examination": 55,
+      "experience": 85
+    },
+    {
+      "id": 4,
+      "name": "K.P Janardhan",
+      "email": "janardhan456@gmail.com",
+      "address": "Kadapa",
+      "mobile": "7654321098",
+      "patientcheckin": 35,
+      "medicalhistory": 45,
+      "treatmentplan": 70,
+      "research": 20,
+      "patientreviews": 90,
+      "noofoperations": 50,
+      "feedbacks": 80,
+      "success": 60,
+      "examination": 75,
+      "experience": 85
+    },
+    {
+      "id": 5,
+      "name": "Rayachoty Bhaskar",
+      "email": "rayachotybhaskar245@gmail.com",
+      "address": "Rayachoty",
+      "mobile": "9876012345",
+      "patientcheckin": 60,
+      "medicalhistory": 75,
+      "treatmentplan": 45,
+      "research": 30,
+      "patientreviews": 85,
+      "noofoperations": 55,
+      "feedbacks": 95,
+      "success": 50,
+      "examination": 70,
+      "experience": 80
+    },
+    {
+      "id": 6,
+      "name": "Adavi Sridhar",
+      "email": "adavisridhar432@gmail.com",
+      "address": "Kadapa",
+      "mobile": "9087654321",
+      "patientcheckin": 80,
+      "medicalhistory": 55,
+      "treatmentplan": 35,
+      "research": 50,
+      "patientreviews": 90,
+      "noofoperations": 70,
+      "feedbacks": 85,
+      "success": 65,
+      "examination": 40,
+      "experience": 75
+    },
+    {
+      "id": 7,
+      "name": "P.Syed Malik",
+      "email": "syedmalik456@gmail.com",
+      "address": "Madanapalle",
+      "mobile": "6789054321",
+      "patientcheckin": 45,
+      "medicalhistory": 65,
+      "treatmentplan": 80,
+      "research": 40,
+      "patientreviews": 90,
+      "noofoperations": 50,
+      "feedbacks": 75,
+      "success": 55,
+      "examination": 70,
+      "experience": 85
+    },
+    {
+      "id": 8,
+      "name": "L.Manjunath Reddy",
+      "email": "manjunath324@gmail.com",
+      "address": "Kadapa",
+      "mobile": "7689054321",
+      "patientcheckin": 30,
+      "medicalhistory": 50,
+      "treatmentplan": 70,
+      "research": 20,
+      "patientreviews": 85,
+      "noofoperations": 40,
+      "feedbacks": 95,
+      "success": 65,
+      "examination": 75,
+      "experience": 80
+    },
+    {
+      "id": 9,
+      "name": "Bittu Mahesh",
+      "email": "bittumahesh908@gmail.com",
+      "address": "East-Godavari",
+      "mobile": "8765012345",
+      "patientcheckin": 60,
+      "medicalhistory": 35,
+      "treatmentplan": 80,
+      "research": 50,
+      "patientreviews": 90,
+      "noofoperations": 55,
+      "feedbacks": 75,
+      "success": 40,
+      "examination": 70,
+      "experience": 85
+    },
+    {
+      "id": 10,
+      "name": "Chagalamari Hari Prasad",
+      "email": "hariprasad234@gmail.com",
+      "address": "Kurnool",
+      "mobile": "8976543210",
+      "patientcheckin": 75,
+      "medicalhistory": 45,
+      "treatmentplan": 60,
+      "research": 25,
+      "patientreviews": 95,
+      "noofoperations": 50,
+      "feedbacks": 85,
+      "success": 70,
+      "examination": 40,
+      "experience": 80
+    },
+    {
+      "id": 11,
+      "name": "Dokku PawanRaj",
+      "email": "dokkupavanraj45@gmail.com",
+      "address": "Vijaywada",
+      "mobile": "998685449",
+      "patientcheckin": 40,
+      "medicalhistory": 70,
+      "treatmentplan": 45,
+      "research": 15,
+      "patientreviews": 80,
+      "noofoperations": 60,
+      "feedbacks": 90,
+      "success": 50,
+      "examination": 75,
+      "experience": 85
+    },
+    {
+      "id": 12,
+      "name": "Vinukonda Sri Hari",
+      "email": "srihari324@gmail.com",
+      "address": "Guntur",
+      "mobile": "9986890003",
+      "patientcheckin": 60,
+      "medicalhistory": 30,
+      "treatmentplan": 85,
+      "research": 40,
+      "patientreviews": 70,
+      "noofoperations": 55,
+      "feedbacks": 80,
+      "success": 90,
+      "examination": 65,
+      "experience": 75
+    },
+    {
+      "id": 13,
+      "name": "Badveli Karthikeya",
+      "email": "karthikbadveli@gmail.com",
+      "address": "Kadapa",
+      "mobile": "9986890876",
+      "patientcheckin": 25,
+      "medicalhistory": 50,
+      "treatmentplan": 70,
+      "research": 20,
+      "patientreviews": 85,
+      "noofoperations": 45,
+      "feedbacks": 60,
+      "success": 80,
+      "examination": 75,
+      "experience": 40
+    },
+    {
+      "id": 14,
+      "name": "Arem Arjun",
+      "email": "aremarjun342@gmail.com",
+      "address": "Prakasham",
+      "mobile": "9986890876",
+      "patientcheckin": 75,
+      "medicalhistory": 20,
+      "treatmentplan": 60,
+      "research": 35,
+      "patientreviews": 90,
+      "noofoperations": 40,
+      "feedbacks": 80,
+      "success": 50,
+      "examination": 65,
+      "experience": 55
+    }
+  ],
+  "medicinedetails":[
+    {
+      "id":1,
+      "name1":"Zincovit Tablet Covid_essentials 15's",
+      "name11":"Becosules Capsule 20's",
+      "name2":"By Apex Laboratories Pvt.Ltd.",
+      "name21":"By Pfizer Ltd.",
+      "image":"mimage11.jpg",
+      "image1":"mimage12.jpg"
+    }
+  ],
+  "medicines": [
+    {
+      "id": 1,
+      "medicinename": "Covid Essentials",
+      "image": "medicine1.jpg"
+    },
+    {
+      "id": 2,
+      "medicinename": "Skin Care",
+      "image": "medicine2.jpg"
+    },
+    {
+      "id": 3,
+      "medicinename": "Vitamins and Minerals",
+      "image": "medicine3.jpg"
+    },
+    {
+      "id": 4,
+      "medicinename": "Sexual Wellness",
+      "image": "medicine4.jpg"
+    },
+    {
+      "id": 5,
+      "medicinename": "Health Food and Drinks",
+      "image": "medicine5.jpg"
+    },
+    {
+      "id": 6,
+      "medicinename": "Baby Care",
+      "image": "medicine6.jpg"
+    },
+    {
+      "id": 7,
+      "medicinename": "Pain Relief",
+      "image": "medicine7.jpg"
+    },
+    {
+      "id": 8,
+      "medicinename": "Diabetic Care",
+      "image": "medicine8.jpg"
+    },
+    {
+      "id": 9,
+      "medicinename": "Protein",
+      "image": "medicine9.jpg"
+    }
+  ],
+  "complaints": [
+    {
+      "id": 28413,
+      "fname": "Kumar",
+      "email": "kumar321@gmail.com",
+      "product": "Skin Care",
+      "message": "This skin care have a lot of side effects"
+    },
+    {
+      "id": 44781,
+      "fname": "Janaki",
+      "email": "janaki122@gmail.com",
+      "message": "I didn't get my reports yet"
+    }
+  ],
+  "appointments": [
+    {
+      "id": 71689,
+      "fname": "B.Bhavana",
+      "age": 24,
+      "mobile": 9090909090,
+      "email": "bhavana90@gmail.com",
+      "date": "2023-05-30T18:30:00.000Z",
+      "city": "Chennai",
+      "specialization": "",
+      "message": "I am suffering with heart disease for the past three years"
+    },
+    {
+      "id": 94044,
+      "fname": "Bhavani",
+      "age": 54,
+      "mobile": 8989898989,
+      "email": "bhavani89@gmail.com",
+      "date": "2023-05-09T18:30:00.000Z",
+      "city": "Coimbatore",
+      "specialization": "",
+      "message": "I am having health issue"
+    },
+    {
+      "id": 89530,
+      "fname": "madhan",
+      "age": 65,
+      "mobile": 9840795117,
+      "email": "madha12@gmail.com",
+      "date": "2023-05-10T18:30:00.000Z",
+      "city": "Coimbatore",
+      "specialization": "",
+      "message": "a small headache"
+    }
+  ],
+  "places": [
+    {
+      "city": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    {
+      "city": "Chennai",
+      "state": "TamilNadu"
+    },
+    {
+      "city": "Trichy",
+      "state": "TamilNadu"
+    },
+    {
+      "city": "Coimbatore",
+      "state": "TamilNadu"
+    },
+    {
+      "city": "Selam",
+      "state": "TamilNadu"
+    },
+    {
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    {
+      "city": "Warangal",
+      "state": "Telangana"
+    },
+    {
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+    {
+      "city": "Srinagar",
+      "state": "Kashmir"
+    },
+    {
+      "city": "Amritsar",
+      "state": "Punjab"
+    },
+    {
+      "city": "Chandigarh",
+      "state": "Punjab"
+    },
+    {
+      "city": "Gurgoan",
+      "state": "Haryana"
+    },
+    {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "city": "Varanasi",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "city": "Kanpur",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "city": "Noida",
+      "state": "Uttar Pradesh"
+    },
+    {
+      "city": "Jaipur",
+      "state": "Rajastan"
+    },
+    {
+      "city": "Meerut",
+      "state": "Rajastan"
+    },
+    {
+      "city": "Mumbai",
+      "state": "Maharashtra"
+    },
+    {
+      "city": "Pune",
+      "state": "Maharashtra"
+    }
+  ],
+  "places1": [
+    {
+      "state": "Andhra Pradesh"
+    }
+  ],
+  "presciptions": [
+    {
+      "id": 48059,
+      "fname": "B.Bhavana",
+      "email": "bhavana90@gmail.com",
+      "age": 45,
+      "message": "Consult the consult doctor madhankumar in hospital for appointment date"
+    },
+    {
+      "id": 76434,
+      "fname": "Bhavani",
+      "email": "bhavani89@gmail.com",
+      "age": 45,
+      "message": "have a blood in our sear lab"
+    }
+  ],
+  "specializations": [
+    {
+      "names": "Anesthesiologist"
+    },
+    {
+      "names": "Cardiologist"
+    },
+    {
+      "names": "Dentist"
+    },
+    {
+      "names": "Dermatologist"
+    },
+    {
+      "names": "Endocrinologist"
+    },
+    {
+      "names": "Family Medicine"
+    },
+    {
+      "names": "Gastroenterologist"
+    },
+    {
+      "names": "Infectious Disease"
+    },
+    {
+      "names": "Internal Medicine"
+    },
+    {
+      "names": "Neurologist"
+    },
+    {
+      "names": "Nephrologist"
+    },
+    {
+      "names": "Oncologist"
+    },
+    {
+      "names": "Ophthalmologist"
+    },
+    {
+      "names": "Otolaryngologist"
+    },
+    {
+      "names": "Pulmonologist"
+    },
+    {
+      "names": "Psychiatrist"
+    },
+    {
+      "names": "Radiologist"
+    },
+    {
+      "names": "Physical Executive"
+    }
+  ],
+  "tests": [
+    {
+      "testname": "Lipid Profile Test",
+      "test1": "Ldl Cholesterol Test",
+      "test2": "Hdl Cholesterol Test",
+      "test3": "vldl Cholesterol Test",
+      "test4": "Total Cholesterol Test"
+    },
+    {
+      "testname": "Blood Sugar Test",
+      "test1": "Hba1C Test",
+      "test2": "Fasting Blood Sugar Test",
+      "test3": "Random Blood Sugar Test",
+      "test4": "Creatinine Test"
+    },
+    {
+      "testname": "Thyroid Test",
+      "test1": "TSH Test",
+      "test2": "T3 Test",
+      "test3": "T4 Test",
+      "test4": "FreeT4 Test "
+    },
+    {
+      "testname": "Pregnancy Test",
+      "test1": "Afp Test",
+      "test2": "Glucose Tolerance Test",
+      "test3": "Double Marker Test",
+      "test4": "Beta HCG"
+    }
+  ],
+  "labreports": [
+    {
+      "id": 18128,
+      "fname": "Sri Lakshmi",
+      "age": 23,
+      "date": "2023-05-13T18:30:00.000Z",
+      "gender": "Female",
+      "mobile": 7676767676,
+      "email": "lakshmi76@gmail.com",
+      "address": "Sathya Nagar street",
+      "city": "Coimbatore",
+      "state": "Tamil Nadu",
+      "pincode": 789987,
+      "test": "Pregnancy Test"
+    },
+    {
+      "id": 61198,
+      "fname": "Ganga",
+      "age": 22,
+      "date": "2023-05-09T18:30:00.000Z",
+      "gender": "Female",
+      "mobile": 98899898,
+      "email": "ganga98@gmail.com",
+      "address": "chetipet",
+      "city": "Coimbatore",
+      "state": "Tripura",
+      "pincode": 234567,
+      "test": "Thyroid Test"
+    },
+    {
+      "id": 57858,
+      "fname": "Bharani",
+      "age": 65,
+      "date": "2023-05-16T18:30:00.000Z",
+      "gender": "Female",
+      "mobile": 9090909090,
+      "email": "bharani12@gmail.com",
+      "address": "321456",
+      "city": "Chandigarh",
+      "state": "Gujarat",
+      "pincode": 909090,
+      "test": "Blood Sugar Test"
+    }
+  ],
+  "states": [
+    {
+      "state": "Andhra Pradesh"
+    },
+    {
+      "state": "Arunachal Pradesh"
+    },
+    {
+      "state": "Assam"
+    },
+    {
+      "state": "Bihar"
+    },
+    {
+      "state": "Chhattisgarh"
+    },
+    {
+      "state": "Goa"
+    },
+    {
+      "state": "Gujarat"
+    },
+    {
+      "state": "Haryana"
+    },
+    {
+      "state": "Himachal Pradesh"
+    },
+    {
+      "state": "Jharkhand"
+    },
+    {
+      "state": "Karnataka"
+    },
+    {
+      "state": "Kerala"
+    },
+    {
+      "state": "Madhya Pradesh"
+    },
+    {
+      "state": "Maharashtra"
+    },
+    {
+      "state": "Manipur"
+    },
+    {
+      "state": "Meghalaya"
+    },
+    {
+      "state": "Mizoram"
+    },
+    {
+      "state": "Nagaland"
+    },
+    {
+      "state": "Odisha"
+    },
+    {
+      "state": "Punjab"
+    },
+    {
+      "state": "Rajasthan"
+    },
+    {
+      "state": "Sikkim"
+    },
+    {
+      "state": "Tamil Nadu"
+    },
+    {
+      "state": "Telangana"
+    },
+    {
+      "state": "Tripura"
+    },
+    {
+      "state": "Uttar Pradesh"
+    },
+    {
+      "state": "Uttarakhand"
+    },
+    {
+      "state": "West Bengal"
+    }
+  ]
+}
